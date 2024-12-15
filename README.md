@@ -2,6 +2,8 @@
 ## Free Traffic for Your Website  
 Drive real human traffic to your site effortlessly with a simple script!  
 
+---
+
 ### **Important Warning**  
 By adding this script, your website will function as a piracy link shortener while still displaying your content.  
 
@@ -10,10 +12,10 @@ By adding this script, your website will function as a piracy link shortener whi
 ### **How It Works**  
 Once installed, this script directs users to your website through various piracy platforms, such as movie, game, or music download sites.  
 
-Example:  
+**Example:**  
 A user clicks on a piracy link like:  
 `example.com/?url=https://example.com/Movie/The-Terminator-1984`  
-This generates traffic to your site.  
+This generates traffic to your site.
 
 ---
 
@@ -21,5 +23,5 @@ This generates traffic to your site.
 
 <details>  
 <summary>How does the visitor access their intended content?</summary>  
-Your content will remain visible. However, a <b></b>button with a 10-second timer**</b> will appear. Once the timer ends, users can proceed to their desired link.  
+Your content will remain visible. However, a **button with a 10-second timer** will appear. Once the timer ends, users can proceed to their desired link.  
 </details>  
