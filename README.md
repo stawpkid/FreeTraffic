@@ -23,5 +23,11 @@ This generates traffic to your site.
 
 <details>  
 <summary>How does the visitor access their intended content?</summary>  
-Your content will remain visible. However, a **button with a 10-second timer** will appear. Once the timer ends, users can proceed to their desired link.  
+Your content will remain visible. However, a button with a 10-second timer will appear. Once the timer ends, users can proceed to their desired link.  
 </details>  
+
+
+### ANOTHER WARNING
+
+Disclaimer: This practice is highly questionable ethically and may violate various laws or terms of service agreements. Proceed at your own risk.
+
